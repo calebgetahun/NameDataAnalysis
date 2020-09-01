@@ -4,10 +4,11 @@ import java.io.*;
 import java.lang.reflect.Array;
 import java.util.*;
 
-
 /**
- * Feel free to completely change this code or delete it entirely. 
+ * Author: Caleb Getahun
  */
+
+
 public class Main {
 
     /**
@@ -24,7 +25,6 @@ public class Main {
         ArrayList<String> recentrankednames = m.findRecentRankedName("Jonathan", 'M', 1999, "ssa_complete");
         ArrayList<String> mostpopularoverrange = m.findMostPopularNameOverRangeOfYears(1880, 2018, 'M', "ssa_complete");
         Set<String> mostpopulargirlnames = m.findMostPopularGirlNamesFirstLetter(2100, 2101, "ssa_testdata");
-        System.out.println(mostpopulargirlnames);
     }
 
     /**
