@@ -1,0 +1,13 @@
+Alice,F,2434
+Edna,F,2378
+Bessie,F,2352
+Grace,F,2308
+Annie,F,2251
+Ida,F,2247
+Marie,F,2212
+Lillian,F,2193
+Mabel,F,2191
+Hazel,F,2052
+Rose,F,2012
+Michael, M, 3456
+Joseph, M, 459
